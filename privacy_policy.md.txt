@@ -1,0 +1,105 @@
+# Privacy Policy for FindFlik App
+
+**Effective Date:** [Insert Date]
+
+Thank you for using FindFlik. Your trust is important to us. This Privacy Policy explains how we collect, use, and safeguard your information when you use the FindFlik mobile application ("App").
+
+---
+
+## 1. Overview of App Functionality
+
+FindFlik is a community-based lost and found platform that allows users to:
+- Report lost items
+- Post found items
+- Communicate with other users via in-app chat
+- Coordinate the return of lost items
+
+Users can interact with each other to help return items to their rightful owners. Once an item is verified through chat and agreement, the original owner may pay a reward, and the item may be returned via a delivery partner.
+
+> **Note:** Currently, no payment gateway has been integrated into the application. All reward or compensation transactions are handled outside the app.
+
+---
+
+## 2. Information We Collect
+
+We may collect and process the following types of information:
+
+### a. Personal Information:
+- Name and profile photo
+- Email address and/or phone number
+
+### b. Media Access:
+- Camera and gallery access (to upload item images)
+
+### c. Location Information:
+- Optional device location for item discovery and delivery coordination
+
+### d. Chat Content:
+- Messages exchanged between users for claim verification
+
+### e. Device and Usage Info:
+- Device model, OS version, crash reports, and usage logs
+
+### f. Firebase Services:
+- Firebase Cloud Messaging (for notifications)
+- Firebase Crashlytics (for crash analytics)
+
+---
+
+## 3. Why We Collect This Information
+
+- To allow users to post and claim lost/found items
+- To enable secure in-app communication
+- To improve item identification with media
+- To notify users of updates or messages
+- To enhance app performance and fix issues
+
+---
+
+## 4. Information Sharing
+
+We do **not** sell or rent user data. We may share information:
+- With other users during item interaction
+- With delivery partners (only when needed for item return)
+- With third-party services like Firebase for functionality
+
+---
+
+## 5. Data Security
+
+We implement industry-standard encryption and secure access control to protect your information. Only authorized personnel can access sensitive data.
+
+---
+
+## 6. Your Rights
+
+You may:
+- Update your personal information in the app
+- Revoke permissions (camera, location) through device settings
+- Request data deletion by contacting support
+
+---
+
+## 7. Children's Privacy
+
+The app is not intended for users under the age of 13. We do not knowingly collect data from children.
+
+---
+
+## 8. Changes to this Policy
+
+We may update this Privacy Policy. You will be notified of significant changes via the app.
+
+---
+
+## 9. Contact Us
+
+For questions or concerns:
+
+**Email:** support@findflik.com  
+**App Name:** FindFlik  
+**Developer:** [Your Company or Team Name]
+
+---
+
+*This Privacy Policy complies with Google Play Developer Program Policies and relevant privacy regulations.*
